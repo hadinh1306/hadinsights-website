@@ -1,11 +1,13 @@
-+++
-image = "img/consumer/pepsicoca.jpg"
-showonlyimage = false
-date = "2016/02/15"
-title = "From Commercials to Consumer Behaviour of FMCG"
-draft = false
-weight = 1
-+++
+---
+date: "2016-02-15"
+image: "content/consumer/img/pepsicoca.jpg"
+author: "Ha Dinh"
+showonlyimage: true
+title: "From Commercials to Consumer Behaviour of FMCG"
+draft: false
+type: "post"
+weight: 1
+---
 
 Among eleven top-rated Super Bowl commercials from 1989 to 2015, there are two commercials that give me the most impression. The first one is [“2004: Bud Light, “Owners demonstrate how their dogs fetch Bud Light”](https://www.youtube.com/watch?v=Yuzi6Ys-jNc). The second one is [“1994: Pepsi, “A chimp experiment goes awry”](https://www.youtube.com/watch?v=-bm0wZOXXW0). These two commercials have both similar and different techniques to nudge viewers, becoming so popular among them.
 
