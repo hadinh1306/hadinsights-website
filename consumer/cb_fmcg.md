@@ -1,0 +1,44 @@
++++
+image = "img/consumer/pepsicoca.jpg"
+showonlyimage = false
+date = "2016/02/15"
+title = "From Commercials to Consumer Behaviour of FMCG"
+draft = false
+weight = 1
++++
+
+Among eleven top-rated Super Bowl commercials from 1989 to 2015, there are two commercials that give me the most impression. The first one is [“2004: Bud Light, “Owners demonstrate how their dogs fetch Bud Light”](https://www.youtube.com/watch?v=Yuzi6Ys-jNc). The second one is [“1994: Pepsi, “A chimp experiment goes awry”](https://www.youtube.com/watch?v=-bm0wZOXXW0). These two commercials have both similar and different techniques to nudge viewers, becoming so popular among them.
+
+##**Commercial Summary**
+
+The Bud Light commercial is about two guys and his two dogs. The first guy owns a dog named Fiber. They are both in good appearance: the owner dresses nicely (business casual) and in good shape, and his dog looks clean and smart. The second guy owns a dog named Fergus. He dresses more casually with his dog which looks dirty, and piteous. When being asked by his owner to fetch, Fiber catches a Bud Light beer and brings the beer to his owner. Then, a bit belittlingly he asks the other guy: “So, … what can your dog do?”. “Fergus, Bud Light” – that’s all the second guy commands his dog. Surprisingly, Fergus bites Fiber’s owner in his testicles to help his owner have the Bud Light beer.
+
+The Pepsi commercial is about reactions of two chimpanzees after being tested in a scientific lab in six weeks. Chimp A is given nothing but Coca-Cola. Chimp B is given nothing but Pepsi. After six weeks, chimp A shows a remarkable improvement in motor skill, while chimp B “quickly lost interest and disappeared.” While in the lab, everyone is worrying where chimp B is, he calls them by a mobile phone from a desert. Chimp B dresses like a swag, drinking Pepsi and driving a Jeep with hot ladies.
+
+##**Similar Techniques**
+
+Three similar techniques that both commercials took advantage of are disrupting pattern to increase viewer’s cognitive processing, identity psychology hook and imagination leading. In the Bud Light commercial, rarely anyone would think Fergus would be any cooler than Fiber. Surprisingly, Fergus bites Fiber’s owner in his testicles to helps his owner have the Bud Light beer. This is absolutely unexpected, a very disrupting pattern in this commercial. It makes viewers laugh, or feel ‘ouch, it hurts!’ (especially for men). These unexpected feelings stimulate viewers’ memory for Bud Light. In the Pepsi commercial, viewers see the improvement in chimp A, and may expect for the same improvement in chimp B (since Pepsi and Coke are perceived similar in some ways). However, it is totally an unexpected sequence when chimp B disappears, then calls the lab from a cell phone to inform that he is enjoying his time driving a sporty car with hot girls, drinking Pepsi. This disrupting pattern makes viewers think of Pepsi a more enjoyable, cooler brand.
+
+Both Bud Light and Pepsi commercial hook viewers psychologically in the identity. Fergus and his owner, though appearing less special at first, turn out to be the coolest. Chimp B also turns out to be a swag, enjoying his adventurous life. People usually want to be ‘cool’, be perceived as interesting to attract other people. Therefore, Bud Light and Pepsi did good job on aligning their brand with whom their viewers want to be.
+
+Besides, both commercials lead imagination of viewers. Leading imagination is one of the ways to change behavior of consumers. In the Bud Light commercial, Fergus’s owner only commands: “Fergus, Bud Light” and his dog immediately bites the other guy on his testicles. This is a smart way to take the Bud Light beer without asking for it. It seems like Fergus only has to detect the word “Bud Light” and he would find a smart way to take the Bud Light beer for his owner. It leads to interesting imaginations of viewers – what else can Fergus do to take a Bud Light beer for his owner? In the Pepsi commercial, chimp B, after drinking Pepsi in less than 6 weeks (since he “quickly lost interest and disappeared) than chimp A, instead of remarkably improving his motor skill like chimp A, he becomes so humanized – dresses like a swag, using cell phone, driving a Jeep on a desert and hanging out with beautiful girls. He is only a chimp and he can do things like human, what else human can do then, after drinking a Pepsi? Due to overestimating personal abilities, people can imagine interesting or even crazy things they can do.
+
+##**Different Techniques**
+Besides similar techniques, Bud Light commercial has one different strategy to hook viewers. Bud Light commercial has dogs as main characters beside their owners. It brings engaging attention from the viewers since dogs have long been men’s ‘best friends’ – they are smart, adorable and loyal. Bringing dogs into the commercial give viewers a familiar and heartwarming feeling.
+
+##**Effects on Consumer Behaviors**
+
+Good commercials cannot change consumer behavior immediately, but keep products in consumer's consideration set instead, as long as they are relevant to consumer's buying intention.
+
+Although Bud Light and Pepsi are fast moving consumer goods with cheap price, buying decision of viewers cannot be made unconsciously and immediately. For consumers who never buy beers or soft drink, these advertisement are not relevant. Therefore, relevancy is an important condition for commercials to have impact on consumers.
+
+Given that the commercial is relevant,viewer's positive feelings driven from commercials drive positive association with the brand. Positive association can possibly act as priming or availability heuristics for making buying decisions. As a priming effect, consumers may have a perception of becoming a cool, fun and interesting people after drinking Bud Light or Pepsi. They focus on the positive association with the brands, and may ignore other aspects like taste or price etc. As an available heuristic, especially for consumers who just watched the two commercials, they tend to use memories of actual instances for their judgment. Positive association with the brands can lead to biased positive judgment when making buying decisions. And in this case, encouraging consumers to consider Pepsi or Bud Light over other brands. Particularly, revenue of PepsiCo ($28.47 billions) was higher than Coke ($723.9 millions) in 1994. Specific sales for Pepsi after the commercial in 1994 could not be found. This 1994 PepsiCo’s total revenue of $28.47 billions comprised of many products other than Pepsi. However, since 25% of PepsiCo revenue is driven from PepsiCo Americas Beverages, the 1994 revenue of this largest snack and non-alcoholic drink producer could be affected partly from an increase in Pepsi sales.
+
+With example and analysis of the two popular Super Bowl commercials, it can be concluded that having engaging commercials using effective psychology hooks, disrupting pattern to increase consumer’s cognitive processing, and imagination leading to change is a good way to keep products in consumer's consideration set. Commercials that are relevant to consumer's buying intention, with other effective nudges can eventually change the behavior of consumers in fast moving consumer goods.
+
+##**References**
+Dooley, Roger. Brainfluence: 100 Ways to Persuade and Convince Consumers with Neuromarketing. Hoboken, NJ: John Wiley, 2012. Print.
+
+“Pepsico (PEP).” Stock:. N.p., n.d. Web. 14 Feb. 2016.
+
+Photo Credits: [Sean Loyless](https://www.flickr.com/photos/haggismac/), under [Creative Commons, Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/)
