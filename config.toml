@@ -12,9 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2018 Ha Dinh"
   sidebarAbout = [
-    "I am a data scientist s"
+    "I am a data scientist with passion for consumer insights. I write about my insights either through observations, big data analysis, or traditional market research. During my free time, I cook, create new recipes, or explore restaurants in Vancouver."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "nhatha.1306@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -36,19 +36,18 @@ googleAnalytics = ""
   url = ""
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Consumer Behavior"
+  url = "consumer-behavior/"
+  
+  [[params.navlinks]]
+  name = "Data Science"
+  url = "data-science/"
 
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  twitter       = "https://twitter.com/NhatHaDinh"
+  linkedin      = "https://www.linkedin.com/in/hanhatdinh/"
+  github        = "https://github.com/hadinh1306/"
