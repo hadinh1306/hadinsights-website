@@ -30,27 +30,40 @@ googleAnalytics = ""
      # - you're done. Happy mailing!
   email = "nhatha.1306@gmail.com"
 
+  relativeurls = true
+
+  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = ""
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
-  name = "Consumer Behavior"
-  identifier = "consumer"
+  name = "Consumer behavior"
   url = "consumer-behavior/"
-  
+
   [[params.navlinks]]
-  name = "Data Science"
-  identifier = "ds"
+  name = "Data science"
   url = "data-science/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  identifier = "contact"
+  name = "Get in Touch"
   url = "contact/"
 
   [params.social]
   twitter       = "https://twitter.com/NhatHaDinh"
   linkedin      = "https://www.linkedin.com/in/hanhatdinh/"
   github        = "https://github.com/hadinh1306/"
+
+  #Adding widgets to the sidebar
+  [params.widgets]
+    categories = false
+    tags = false
+    search = false
+
+# options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "tomorrow-night-bright"
