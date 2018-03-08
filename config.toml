@@ -37,14 +37,17 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Consumer Behavior"
+  identifier = "consumer"
   url = "consumer-behavior/"
   
   [[params.navlinks]]
   name = "Data Science"
+  identifier = "ds"
   url = "data-science/"
 
   [[params.navlinks]]
   name = "Get in touch"
+  identifier = "contact"
   url = "contact/"
 
   [params.social]
