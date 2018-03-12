@@ -39,7 +39,7 @@ Not only Black Star Pastry, but also other cafés adopt arts to their products. 
 
 ![Pasta with squid ink and smoked salmon](static/img/consumer-insight/sydney_pasta.jpg)
 
-![Samuka’s: salmon, salad, fried rice roll](static/img/consumer-insight/sydney_salmon.jpg)
+![Samuka’s: salmon, salad, fried rice roll](/img/consumer-insight/sydney_salmon.jpg)
 
 ![My Asian Cousin: peach, mango, coconut, chia seed, lychee and glass pudding](../../static/img/consumer-insight/sydney_asiancousin.jpg)
 
