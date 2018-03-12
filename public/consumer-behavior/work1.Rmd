@@ -37,11 +37,11 @@ The cake is an art itself, with cake layers made from almond meal, rose scented 
 
 Not only Black Star Pastry, but also other cafés adopt arts to their products. Here comes some examples from Devon café and Haven Tailoring Coffee Joyously.
 
-![Pasta with squid ink and smoked salmon](static/img/consumer-insight/sydney_pasta.jpg)
+![Pasta with squid ink and smoked salmon](/img/consumer-insight/sydney_pasta.jpg#center)
 
-![Samuka’s: salmon, salad, fried rice roll](/img/consumer-insight/sydney_salmon.jpg)
+![Samuka’s: salmon, salad, fried rice roll](/img/consumer-insight/sydney_salmon.jpg#center)
 
-![My Asian Cousin: peach, mango, coconut, chia seed, lychee and glass pudding](../../static/img/consumer-insight/sydney_asiancousin.jpg)
+![My Asian Cousin: peach, mango, coconut, chia seed, lychee and glass pudding](/img/consumer-insight/sydney_asiancousin.jpg#center)
 
 Australia is close to Asia, thus having fresh seafood and all the spices, as well as the ways of cooking to make tasty, fresh-made arts seems reasonable. Australian also are more health-conscious, so they are more aware of healthy, organic food and greatly welcome those types of restaurants.
 
