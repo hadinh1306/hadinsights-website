@@ -1,34 +1,82 @@
 ---
 date: "2016-12-17"
-title: "work 1"
-slug: "DSCourses"
-showonlyimage: true
+title: "From Starbucks to Louis Vuitton, how consumer understanding transforms businesses"
+slug: "consumer-insight"
+showonlyimage: false
 draft: false
-image: "blog/img/mainImages/2016-12-17_DSCourses.jpg"
+image: "img/sydney_ci_main.jpg"
 type: "post"
-author: "Ha"
-description: "A list of the data science courses I've taken, my ratings on them, and comments for future learners."
+author: "Ha Dinh"
+description: ""
 ---
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+I travelled to Sydney, Australia during December 2016 for 10 days. It was for a study abroad trip with University of Cincinnati, Department of Economics to learn about economics of immigration. Besides knowledge of immigration problems and how Australia’s government is dealing with them, I gained great consumer insights through conversations and observation.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Sydney is such a vibrant and metropolitan city with (especially) so many Asian. As a big fan of culinary, I discovered some café and restaurants around the city. Throughout my journey, I noticed many interesting facts that understanding demand and consumer behavior would explain.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+## **1. Journey to find a Starbucks**
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+> The watery taste can never be compared to the strong, Italian-style coffee.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Coming from US, where I can easily access to three Starbucks stores on campus and many more in 10-minute drive distance, I was amazed of how difficult it was for me to find a Starbucks store. I ended up seeing only 1 store during my 10-day trip. Curious of this shortage for Starbucks stores, I asked around and went on the Internet to found out. Apparently, Aussie doesn’t like the taste of Starbucks coffee. The watery taste can never be compared to the strong, Italian-style coffee that Australian adopted from Italian and Greek immigrants in the early 1950s.
 
-## Header Level 2
+Starbucks entered Australia market in 2000. Just 8 years later, it lost $143 million and was forced to close 60 stores, including 5 out of 9 stores in Sydney. Part of the problem is because of the bombarding number of stores in a short time that did not allow the market to get used to it. Charging a premium price and offering a [questioning service](https://www.marketingmag.com.au/news-c/can-a-local-operator-succeed-where-starbucks-failed-in-australia-by-opening-more-stores/#.VFVxhfmUcXc) where customers already had a [strong coffee-culture](https://munchies.vice.com/en_us/article/4xb9gd/this-is-why-australians-hate-starbucks) did not help much for the situation.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## **2. A dish is an art, not just a meal**
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> First bite – I thought I was in heaven. Second bite and even the very last bite – I still stayed in my heaven.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Wandering around Sydney, from business district, to Vietnamese town, I realized how diverse coffee stores and restaurants are in this city. I came in Black Star Pastry in The Galeries building. The store is located inside Kinokuniya Bookstore with 3 small tables and a counter for around 5 chairs – pretty small sitting area. I arrived in a week-day afternoon with Long – my best friend in middle school who has been studying in Sydney since highschool. There was a long line of exciting customers who pointed at the small pastry window. They were waiting for the same thing I looked for – the famous *Watermelon Strawberry Cake*.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![](../../static/img/consumer-insight/sydney_blackstarpastry.jpg)
+
+The cake is an art itself, with cake layers made from almond meal, rose scented cream and fresh watermelon. Cake décor has fresh strawberries, grapes, rose petals and slivered pistachio. Not until I tasted it did I realize why the long waiting line was nothing. First bite – I thought I was in heaven. Second bite and even the very last bite – I still stayed in my heaven. A piece of cake costs AUD$8 (pretty expensive for a college student like me), but seriously I am willing to pay up to $10 for it.
+
+![](../../static/img/consumer-insight/sydney_cake.jpg)
+
+Not only Black Star Pastry, but also other cafés adopt arts to their products. Here comes some examples from Devon café and Haven Tailoring Coffee Joyously.
+
+![Pasta with squid ink and smoked salmon](../../static/img/consumer-insight/sydney_pasta.jpg)
+
+![Samuka’s: salmon, salad, fried rice roll](../../static/img/consumer-insight/sydney_salmon.jpg)
+
+![My Asian Cousin: peach, mango, coconut, chia seed, lychee and glass pudding](../../static/img/consumer-insight/sydney_asiancousin.jpg)
+
+Australia is close to Asia, thus having fresh seafood and all the spices, as well as the ways of cooking to make tasty, fresh-made arts seems reasonable. Australian also are more health-conscious, so they are more aware of healthy, organic food and greatly welcome those types of restaurants.
+
+## **3. Flip-flop vending machine in a high-class mall**
+
+> Who thinks of styles first when he/she just wants to end his/her problem?
+
+The mall is close to business district and a lot of night life locations. As a woman myself, I love wearing high heels to work or to nightclubs. Heels make me taller, and feel more confident in certain types of outfit. However, heels give me blisters and uncomfortable moments when I wear them too long.
+
+* Scenario 1: After a long working day, I just want to rest, not to spend more than 10 minutes in a store buying a nonsense flip flops – I (feel like) can deal with my problem and wait till I get home.
+
+* Scenario 2: After dancing and standing for too long at a bar/club with my high heels, at 1AM, I am willing to spend 15 minutes in a store to buy comfortable shoes. Which stores open at 1AM? Are they very far from here? I don’t want to walk on my heels anymore.
+
+Here comes a solution for both scenarios: a **flip-flop vending machine**. I can shop quickly and go in 5 minutes. If I don’t know my size, Havaianas helps me to figure out with a special size chart. The vending machine that I passed through works 24/7, stands right next to bar/club area and offers very basic choices of grey/black/brown flip flops. Who thinks of styles first when they just wants to end their problem?
+
+![](../../static/img/consumer-insight/sydney_havainas.jpg)
+
+Personally, I believe Havaianas does a great job in placing the right product at the right location and be the hero of its customers.
+
+![](../../static/img/consumer-insight/sydney_havainas2.jpg)
+
+## **4. When did Louis Vuitton suddenly become so friendly and welcoming?**
+
+> It may hit the [zero moment of truth](https://www.thinkwithgoogle.com/marketing-resources/micro-moments/zero-moment-truth/), who knows?
+
+In the same mall I visited Black Star Pastry, I saw this weird Louis Vuitton store. Seriously?! Where is the fancy, closed store? This store is in the middle of the floor with no door, totally opened to everyone who want to shop or window-shop. With a traditional store, Louis Vuitton gives a high-class feeling for its target market – rich, upper class customers. With this store, the target market is still the same, but the brand has reach further! Everyone, even those who don’t want to come in, sees store products just by passing through.
+
+This idea is great for brand awareness, and send Louis Vuitton products into potential customers’ consideration. It may hit the [zero moment of truth](https://www.thinkwithgoogle.com/marketing-resources/micro-moments/zero-moment-truth/), who knows?
+
+![](../../static/img/consumer-insight/sydney_lv.img)
+
+## **Thoughts and Conclusions** 
+
+In a world where brands and products are living with great diversity of customers, businesses need to understand consumer behavior – how their customers think, what leads them to point of purchase, what makes them choose you instead of others?
+
+Not knowing enough about the espresso-culture of Australia, Starbucks failed. Enduring the diversity and advantages that diversity and geography bring, café and restaurants are welcomed with their arts. Solving the pain point of customers at the right time and right place with right products, Havaianas gains profit. Not restricting themselves from the high-class image, knowing that many people (not just the upper class) desire the brand, Louis Vuitton reaches more potential customers in a friendly, welcoming way.
+
+For me, understanding customers is like understanding my partner, my family, and my very close friends. They are human-beings, they have problems, happiness and sadness like me. Understanding them at the right time, right place and offering them right support help tighten the relationships. And obviously, when we are going through hard times, they will also offer the right support we need!
