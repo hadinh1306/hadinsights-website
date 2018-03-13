@@ -1,0 +1,57 @@
+---
+title: To ask the right question, that is an art
+author: Ha Dinh
+date: '2017-10-13'
+slug: ask-the-right-question
+categories:
+  - Data Science
+tags:
+  - data science
+  - communication
+showonlyimage: true
+draft: true
+image: "img/sydney_ci_main.jpg"
+---
+
+*If you don't have time to read a full article, go to **Solution**.*
+
+## **A little story**
+
+I just moved to Vancouver recently, for my Master of Data Science at University of British Columbia. On my way home from a brunch meeting, I met a stranger lady on the bus. She started the conversation:
+
+> Lady: "Hey, do you know if I can take Sky Train from Broadway City Hall to Broadway-Commercial station? Please let me know, I'm in a hurry."
+
+My brain started to analyze her question.
+
+> My Brain: "Where is Broadway City Hall? Is it a building, or a station?"
+
+> My Brain: "We're on the 99 bus, which will take us to Broadway-Commercial station? So will she go to Broadway City Hall first, then go to Broadway-Commercial? Or does she want to go to Broadway-Commercial from here?"
+
+After a good 7 minutes of *Q&A session*, I finally understood her ultimate goal: She has an appointment at 12:45pm near Broadway-Commercial station. It was almost the time, so she wanted to reach there as fast as possible. And also knew that she doesn't have data on her phone to check routes on Google Map.
+
+## **The problem is...**
+
+
+
+It is not only the stranger lady who asks questions based on her solution (that she - with all of her available information, thought to be the best choice at that moment), but also many of us who unconsciously do so. **We skip the most important part - telling our goal/problem.**
+
+If the lady whom I met on the bus told me her ultimate purpose of getting to the meeting point as fast as possible, I would have had assured her that she was on the right bus, and my brain would not spend time analyzing the unnecessary details like "Broadway City Hall" or "whether she goes to City Hall before Broadway-Commercial station".
+
+## **Before you ask**
+
+To give the right questions and save time for people whom you ask, remember:
+
+1. They don't know what is the ultimate goal you want to reach. So they might give a totally unrelated answer.
+
+2. People might have different information from yours. So their way of thinking might be different from yours, and that may lead to a better solution to your problem.
+
+## **Solution**
+
+*Summary for those who jump to this part without reading everything else: Many of us ask questions based on our solution to a problem to justify that solution, instead of telling about our problem first. This is an inefficient practice since people whom we ask might give unrelated answers or have better solutions to that problem.*
+
+To ask the right questions, that is an art.
+
+Below is a quick guideline for asking right questions, following by my example on the bus.
+
+|      | **If you're the one who ask question** | **If you're the one who get asked** |
+|

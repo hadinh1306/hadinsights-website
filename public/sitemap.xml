@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/data-science/ask-the-right-question/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/consumer-behavior/how-consumer-understanding-transforms-businesses/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
   </url>
@@ -73,8 +78,26 @@
   </url>
   
   <url>
+    <loc>/tags/communication/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/consumer-behavior/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,6 +109,7 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
