@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>/consumer-behavior/why-consumers-do-what-they-do/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -85,6 +90,12 @@
   <url>
     <loc>/tags/communication/</loc>
     <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/consumer-behaviour/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,6 +114,24 @@
   <url>
     <loc>/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marketing/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/neuromarketing/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/research/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
