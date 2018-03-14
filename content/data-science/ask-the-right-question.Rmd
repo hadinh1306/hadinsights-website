@@ -8,16 +8,30 @@ categories:
 tags:
   - data science
   - communication
-showonlyimage: true
-draft: true
-image: "img/sydney_ci_main.jpg"
+showonlyimage: false
+draft: false
+type: "post"
+image: "img/data-science/ds_question_main.jpg"
 ---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
 
 *If you don't have time to read a full article, go to **Solution**.*
 
 ## **A little story**
 
+```{r echo=FALSE, out.width="70%", fig.align='center'}
+include_graphics("/img/data-science/vancouver_99bline.jpg")
+```
+
 I just moved to Vancouver recently, for my Master of Data Science at University of British Columbia. On my way home from a brunch meeting, I met a stranger lady on the bus. She started the conversation:
+
+<!--more-->
 
 > Lady: "Hey, do you know if I can take Sky Train from Broadway City Hall to Broadway-Commercial station? Please let me know, I'm in a hurry."
 
@@ -31,9 +45,11 @@ After a good 7 minutes of *Q&A session*, I finally understood her ultimate goal:
 
 ## **The problem is...**
 
+```{r echo = FALSE, out.width="50%", fig.align="center"}
+include_graphics("/img/data-science/ds_question_meme.jpg")
+```
 
-
-It is not only the stranger lady who asks questions based on her solution (that she - with all of her available information, thought to be the best choice at that moment), but also many of us who unconsciously do so. **We skip the most important part - telling our goal/problem.**
+It is not only the stranger lady who asks questions based on her solution (that she - with all of her available information, thought to be the best choice at that moment), but also many of us who unconsciously do so. **We skip the most important part - telling our goal or problem.**
 
 If the lady whom I met on the bus told me her ultimate purpose of getting to the meeting point as fast as possible, I would have had assured her that she was on the right bus, and my brain would not spend time analyzing the unnecessary details like "Broadway City Hall" or "whether she goes to City Hall before Broadway-Commercial station".
 
@@ -49,9 +65,47 @@ To give the right questions and save time for people whom you ask, remember:
 
 *Summary for those who jump to this part without reading everything else: Many of us ask questions based on our solution to a problem to justify that solution, instead of telling about our problem first. This is an inefficient practice since people whom we ask might give unrelated answers or have better solutions to that problem.*
 
+```{r echo = FALSE, out.width="50%", fig.align='center'}
+include_graphics("/img/data-science/ds_question_meme2.jpg")
+```
+
 To ask the right questions, that is an art.
 
 Below is a quick guideline for asking right questions, following by my example on the bus.
 
-|      | **If you're the one who ask question** | **If you're the one who get asked** |
-|
+#### If you’re the one who ask question.
+
+```{r echo=FALSE}
+df <- data.frame(Step = c("Step 1", "Step 2", "Step 3"), 
+                 Details = c("Tell them your problem, the ultimate goal you want to reach.",
+                                                          "Tell them your constrains – what things keep you from reaching the goal.",
+                                                          "Tell them your solution(s). Now is the time you can justify your solution(s) if you want."),
+                 Example = c("I have a meeting near Commercial-Broadway station at 12:45 pm. I want to find the fastest route to reach there.", 
+                             "I have no data on my phone to search on Google Map.",
+                             "I know there is a train station near here – Broadway City Hall station. I think I might go by train from that station, it might be faster. Can you check if it’s correct?"))
+
+kable(df, "html") %>% 
+  kable_styling(bootstrap_options = c("striped", "condensed", "responsive"))
+```
+
+**Tip:** If you are in a hurry and need the answer quickly, skip step 3.
+
+####  If you’re the one who get asked
+
+```{r echo=FALSE}
+df2 <- data.frame(Step = c("Step 1", "Step 2", "Step 3"), 
+                  Details = c("Ask about their problem, or their goals.",
+                              "Ask about their constrains, anything that keeps them from reaching the goal.",
+                              "Justify their solution(s) and help them find the best solution."),
+                  Example = c("Do you want to get to Commercial-Broadway station from here? Or you will go to Broadway City Hall first and then to Broadway-Commercial? You mentioned that you’re in a hurry, what time do you need to be there?", 
+                              "If you have data on your phone, you can check on Google Map because I don’t have the answer on top of my head right now. If you don’t have data, I can help you find the route on my phone.",
+                              "You cannot go from Broadway City Hall station to Commercial-Broadway by train. The fastest route, based on what I see in Google Map and Transit app is by Bus 99 – which we’re on now. So you can stay on this bus and get off at Commercial – Broadway station."))
+
+kable(df2, "html") %>% 
+  kable_styling(bootstrap_options = c("striped", "condensed", "responsive"))
+```
+
+This guideline is good for both personal and professional setting. Now, let’s go and practice asking questions!
+
+Photo credits: [Minneapolis Institute of Art](https://www.flickr.com/photos/minneapolisinstituteofarts/), under [Creative Commons, Attribution Non-Commercial Share Alike 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
