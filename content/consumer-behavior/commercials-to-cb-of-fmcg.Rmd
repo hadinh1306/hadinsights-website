@@ -9,7 +9,7 @@ tags:
   - neuromarketing
   - research
 type: "post"
-showonlyimage: true
+showonlyimage: false
 draft: false
 image: "/img/consumer-insight/commercials_main.jpg"
 ---
@@ -19,6 +19,8 @@ library(knitr)
 ```
 
 Among eleven top-rated Super Bowl commercials from 1989 to 2015, there are two commercials that give me the most impression. The first one is “2004: Bud Light - [Owners demonstrate how their dogs fetch Bud Light](https://www.youtube.com/watch?v=Yuzi6Ys-jNc)”. The second one is “1994: Pepsi - [A chimp experiment goes awry](https://www.youtube.com/watch?v=-bm0wZOXXW0)”. These two commercials have both similar and different techniques to nudge viewers, becoming so popular among them.
+
+<!--more-->
 
 ### **Commercial Summary**
 
