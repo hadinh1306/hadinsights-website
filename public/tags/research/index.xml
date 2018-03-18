@@ -6,19 +6,10 @@
     <description>Recent content in Research on Ha Dinh Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Define Data Analysis Objectives and Write a Logical Report</title>
-      <link>/data-science/objectives-and-logical-report/</link>
-      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/data-science/objectives-and-logical-report/</guid>
-      <description>For many data analysis beginners, there seems to be so many stories we can tell from a data set, but too little time we have to analyze data and tell those stories in a reader-friendly way. Undoubtedly, many of us find ourselves lost in a middle of data maze, confusing what is the most effective strategy to tackle with this complexity. The secret sauce to solve this is no secret, since it has been stated in many articles or textbooks: Defining project objectives before you proceed with your analysis.</description>
-    </item>
     
     <item>
       <title>Why consumers do what they do?</title>
@@ -37,6 +28,15 @@
       <guid>/consumer-behavior/commercials-to-cb-of-fmcg/</guid>
       <description>Among eleven top-rated Super Bowl commercials from 1989 to 2015, there are two commercials that give me the most impression. The first one is “2004: Bud Light - Owners demonstrate how their dogs fetch Bud Light”. The second one is “1994: Pepsi - A chimp experiment goes awry”. These two commercials have both similar and different techniques to nudge viewers, becoming so popular among them.
  Commercial Summary The Bud Light commercial is about two guys and his two dogs.</description>
+    </item>
+    
+    <item>
+      <title>Define Data Analysis Objectives and Write a Logical Report</title>
+      <link>/data-science/objectives-and-logical-report/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/data-science/objectives-and-logical-report/</guid>
+      <description>For many data analysis beginners, there seems to be so many stories we can tell from a data set, but too little time we have to analyze data and tell those stories in a reader-friendly way. Undoubtedly, many of us find ourselves lost in a middle of data maze, confusing what is the most effective strategy to tackle with this complexity. The secret sauce to solve this is no secret, since it has been stated in many articles or textbooks: Defining project objectives before you proceed with your analysis.</description>
     </item>
     
   </channel>

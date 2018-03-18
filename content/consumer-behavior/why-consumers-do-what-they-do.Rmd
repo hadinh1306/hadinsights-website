@@ -10,9 +10,10 @@ tags:
   - neuromarketing
   - research
 type: "post"
-showonlyimage: false
+showonlyimage: true
 draft: false
 image: "/img/consumer-insight/consumer-bev_main.jpg"
+weight: 1
 ---
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}

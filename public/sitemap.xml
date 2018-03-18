@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/consumer-behavior/why-consumers-do-what-they-do/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/consumer-behavior/commercials-to-cb-of-fmcg/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/data-science/ask-the-right-question/</loc>
     <lastmod>2017-10-13T00:00:00+00:00</lastmod>
   </url>
@@ -30,16 +40,6 @@
   <url>
     <loc>/data-science/objectives-and-logical-report/</loc>
     <lastmod>2016-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/why-consumers-do-what-they-do/</loc>
-    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/commercials-to-cb-of-fmcg/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -85,7 +85,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +103,7 @@
   
   <url>
     <loc>/tags/research/</loc>
-    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
