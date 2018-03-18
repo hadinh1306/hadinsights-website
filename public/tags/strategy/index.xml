@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science on Ha Dinh Insights</title>
-    <link>/data-science/</link>
-    <description>Recent content in Data Science on Ha Dinh Insights</description>
+    <title>Strategy on Ha Dinh Insights</title>
+    <link>/tags/strategy/</link>
+    <description>Recent content in Strategy on Ha Dinh Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/data-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>To ask the right question, that is an art</title>
-      <link>/data-science/ask-the-right-question/</link>
-      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/data-science/ask-the-right-question/</guid>
-      <description>If you don’t have time to read a full article, go to Solution.
-A little story I just moved to Vancouver recently, for my Master of Data Science at University of British Columbia. On my way home from a brunch meeting, I met a stranger lady on the bus. She started the conversation:
-  Lady: “Hey, do you know if I can take Sky Train from Broadway City Hall to Broadway-Commercial station?</description>
-    </item>
     
     <item>
       <title>Define Data Analysis Objectives and Write a Logical Report</title>

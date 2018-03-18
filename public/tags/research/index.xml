@@ -6,10 +6,19 @@
     <description>Recent content in Research on Ha Dinh Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Define Data Analysis Objectives and Write a Logical Report</title>
+      <link>/data-science/objectives-and-logical-report/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/data-science/objectives-and-logical-report/</guid>
+      <description>For many data analysis beginners, there seems to be so many stories we can tell from a data set, but too little time we have to analyze data and tell those stories in a reader-friendly way. Undoubtedly, many of us find ourselves lost in a middle of data maze, confusing what is the most effective strategy to tackle with this complexity. The secret sauce to solve this is no secret, since it has been stated in many articles or textbooks: Defining project objectives before you proceed with your analysis.</description>
+    </item>
     
     <item>
       <title>Why consumers do what they do?</title>

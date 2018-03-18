@@ -1,0 +1,111 @@
+---
+title: Define Data Analysis Objectives and Write a Logical Report
+author: Ha Dinh
+date: '2016-09-28'
+slug: objectives-and-logical-report
+categories:
+  - Data Science
+tags:
+  - business analytics
+  - data analytics
+  - data science
+  - strategy
+  - research
+showonlyimage: false
+draft: false
+type: "post"
+image: "img/data-science/ds_objectives_main.jpg"
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+For many data analysis beginners, there seems to be so many stories we can tell from a data set, but too little time we have to analyze data and tell those stories in a reader-friendly way. Undoubtedly, many of us find ourselves lost in a middle of data maze, confusing what is the most effective strategy to tackle with this complexity. The secret sauce to solve this is no secret, since it has been stated in many articles or textbooks: **Defining project objectives** before you proceed with your analysis.
+
+There are many objectives we possibly can think of. If you feel lost again, here are two steps to better define them.
+
+## **Who will you present your findings to?** 
+
+```{r echo = FALSE, out.width="80%", fig.align='center'}
+include_graphics("/img/data-science/ds_objectives_audiences.jpg")
+```
+
+As data analysts, we probably need to present our findings to our teammates or other departments, and even senior executives. If Marketing Director requests data analysis from you, but you know that the CEO is going to be at the final presentation - put him/her in the audience list.
+
+## **What kind of stories do you want to tell your audiences?**
+
+If you are given an analysis task without specific finding's requests, think of what your audiences want to know.
+
+```{r echo=FALSE}
+story <- data.frame(Audience = c("CEO", "Marketing Director", "Operation Manager"),
+                    Interest = c("Did sales increase or decrease in the last 2 years? How much revenue we have earned from the beginning of this year? Did sales show a consistent trend over time?",
+                                 "Where does the majority of our customers come from? Which products did we sell the most? Where was product A sold the most? Which products should we stop selling? Are there any opportunities for new products?",
+                                 "How can I plan inventory more effectively? How many products should I put in warehouse A and B?"))
+
+kable(story, "html") %>% 
+  kable_styling(bootstrap_options = c("striped", "condensed", "responsive"))
+```
+
+Don't keep many cookies in an oven - Limit your "stories" to 3-5, depending on project deadline and presentation duration. If audiences want to know more about your findings, you can conduct a second analysis with more thorough information.
+
+Having clear objectives in hand, followed with meticulous analysis, you now wonder how to start with your report...
+
+## **From Big picture to Small details**
+
+```{r echo = FALSE, out.width="80%", fig.align='center'}
+include_graphics("/img/data-science/ds_objectives_bigtosmall.png")
+```
+
+There are many useful report format available online with free-of-charge. However, I personally find this "Big picture to Small details" a great orientation for any types of report. It makes our reports logical and easy to follow.
+
+### **Example**
+
+Let's demonstrate these 3 steps through an example of swimming suit sales.
+
+**Business Case:**
+
+An e-commerce company sales swimming suit through Amazon and its own website. Last year - 2015, this company offered swimming suit in 3 styles (red, blue and purple), 2 swimming accessories (swimming cap and goggle). Each swimming suit style is in size M and L.
+
+**Audience:**
+
+CEO, Marketing Director, Operation Manager
+
+**Stories:**
+
+- Total sales of last year (did it increase?)
+- Consumer location and buying behavior
+- Inventory planning for Amazon warehouse and company's warehouse.
+
+**Here is how I would present it using "Big picture to Small details" technique** 
+
+- In 2015, our company's revenue was 3 million, which doubled from 2014's revenue. 70% of this came from our summer sales, 20% came from Thanksgiving-Christmas sales and 10% came from the rest.
+
+
+- Due to the nature of our product, also proved through these percentages and through a graph of monthly sales, we can tell that our products has seasonal trend: sales peak during summer months from late May to late August, slow down during fall, increase again from late November to late December for Thanksgiving-Christmas-New Year period, drop dramatically in January and finally recover gradually from late March.
+
+
+- Breaking this revenue into 5 products (red, blue and purple swimming suits with swimming cap and goggle), we see that 96% of our sales came from swimming suits. 
+  - Looking at product sales through months, we can tell that swimming suits sales follows the general seasonal trend proved previously. 
+  - However, our swimming accessories sales didn't show any improvement in sales since 2014 even during summer and Thanksgiving-Christmas season.
+    - Swimming cap and goggle can be potentially eliminated from our product list. 
+    - However, we should do further investigation (marginal profit, potential to make them add-on products, etc.) to make the final decision.
+
+
+- Geographically speaking, 25% of red swimming suits sales came from California State, 20% from Texas, 15% from Florida, 10% from Indiana, and the rest from remaining states. [...follow this for other products. You can break into cities also]
+  - 25% of quantity sold for red swimming suits came from size M and 75% from size L.
+    - Within size M total quantity sold, 80% came from Amazon Fulfillment and 20% from our website's sales.
+
+
+- Based on the information above, here is an inventory planning recommendation for Amazon and company's warehouses.
+
+Following this order, from a big picture to small details, you cover everything your audiences want to hear, in a logical presentation.
+
+Photo credits: 
+[1950sUnlimited](https://www.flickr.com/photos/blakta2), under [Creative Commons, Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/)
+
+[Michael Pardo](https://www.flickr.com/photos/michaelpardo/), under [Creative Commons, Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/)
+
+[David Luders](https://www.flickr.com/people/42988571@N08/), under [Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/)

@@ -3,56 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/consumer-behavior/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work6/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/consumer-behavior/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/data-science/ask-the-right-question/</loc>
     <lastmod>2017-10-13T00:00:00+00:00</lastmod>
   </url>
@@ -78,8 +28,19 @@
   </url>
   
   <url>
+    <loc>/data-science/objectives-and-logical-report/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/consumer-behavior/why-consumers-do-what-they-do/</loc>
     <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/business-analytics/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,6 +61,12 @@
   </url>
   
   <url>
+    <loc>/tags/data-analytics/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/data-science/</loc>
     <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,7 +80,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,13 +98,19 @@
   
   <url>
     <loc>/tags/research/</loc>
-    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/strategy/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

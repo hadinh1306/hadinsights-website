@@ -6,110 +6,10 @@
     <description>Recent content on Ha Dinh Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Name of the work 2</title>
-      <link>/consumer-behavior/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 3</title>
-      <link>/consumer-behavior/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item without image</title>
-      <link>/consumer-behavior/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 5</title>
-      <link>/consumer-behavior/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>/consumer-behavior/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>/consumer-behavior/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>/consumer-behavior/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>/consumer-behavior/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>/consumer-behavior/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>/consumer-behavior/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>/consumer-behavior/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>To ask the right question, that is an art</title>
@@ -130,6 +30,15 @@ A little story I just moved to Vancouver recently, for my Master of Data Science
       <guid>/consumer-behavior/how-consumer-understanding-transforms-businesses/</guid>
       <description>I travelled to Sydney, Australia during December 2016 for 10 days. It was for a study abroad trip with University of Cincinnati, Department of Economics to learn about economics of immigration. Besides knowledge of immigration problems and how Australia’s government is dealing with them, I gained great consumer insights through conversations and observation. 
 Sydney is such a vibrant and metropolitan city with (especially) so many Asian. As a big fan of culinary, I discovered some café and restaurants around the city.</description>
+    </item>
+    
+    <item>
+      <title>Define Data Analysis Objectives and Write a Logical Report</title>
+      <link>/data-science/objectives-and-logical-report/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/data-science/objectives-and-logical-report/</guid>
+      <description>For many data analysis beginners, there seems to be so many stories we can tell from a data set, but too little time we have to analyze data and tell those stories in a reader-friendly way. Undoubtedly, many of us find ourselves lost in a middle of data maze, confusing what is the most effective strategy to tackle with this complexity. The secret sauce to solve this is no secret, since it has been stated in many articles or textbooks: Defining project objectives before you proceed with your analysis.</description>
     </item>
     
     <item>
