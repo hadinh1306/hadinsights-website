@@ -81,25 +81,25 @@ CEO, Marketing Director, Operation Manager
 
 **Here is how I would present it using "Big picture to Small details" technique** 
 
-- In 2015, our company's revenue was 3 million, which doubled from 2014's revenue. 70% of this came from our summer sales, 20% came from Thanksgiving-Christmas sales and 10% came from the rest.
+1. In 2015, our company's revenue was 3 million, which doubled from 2014's revenue. 70% of this came from our summer sales, 20% came from Thanksgiving-Christmas sales and 10% came from the rest.
 
 
-- Due to the nature of our product, also proved through these percentages and through a graph of monthly sales, we can tell that our products has seasonal trend: sales peak during summer months from late May to late August, slow down during fall, increase again from late November to late December for Thanksgiving-Christmas-New Year period, drop dramatically in January and finally recover gradually from late March.
+2. Due to the nature of our product, also proved through these percentages and through a graph of monthly sales, we can tell that our products has seasonal trend: sales peak during summer months from late May to late August, slow down during fall, increase again from late November to late December for Thanksgiving-Christmas-New Year period, drop dramatically in January and finally recover gradually from late March.
 
 
-- Breaking this revenue into 5 products (red, blue and purple swimming suits with swimming cap and goggle), we see that 96% of our sales came from swimming suits. 
+3. Breaking this revenue into 5 products (red, blue and purple swimming suits with swimming cap and goggle), we see that 96% of our sales came from swimming suits. 
   - Looking at product sales through months, we can tell that swimming suits sales follows the general seasonal trend proved previously. 
   - However, our swimming accessories sales didn't show any improvement in sales since 2014 even during summer and Thanksgiving-Christmas season.
     - Swimming cap and goggle can be potentially eliminated from our product list. 
     - However, we should do further investigation (marginal profit, potential to make them add-on products, etc.) to make the final decision.
+    
 
-
-- Geographically speaking, 25% of red swimming suits sales came from California State, 20% from Texas, 15% from Florida, 10% from Indiana, and the rest from remaining states. [...follow this for other products. You can break into cities also]
+4. Geographically speaking, 25% of red swimming suits sales came from California State, 20% from Texas, 15% from Florida, 10% from Indiana, and the rest from remaining states. [...follow this for other products. You can break into cities also]
   - 25% of quantity sold for red swimming suits came from size M and 75% from size L.
     - Within size M total quantity sold, 80% came from Amazon Fulfillment and 20% from our website's sales.
 
 
-- Based on the information above, here is an inventory planning recommendation for Amazon and company's warehouses.
+5. Based on the information above, here is an inventory planning recommendation for Amazon and company's warehouses.
 
 Following this order, from a big picture to small details, you cover everything your audiences want to hear, in a logical presentation.
 
