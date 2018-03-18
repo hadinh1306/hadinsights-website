@@ -47,10 +47,6 @@ googleAnalytics = ""
   name = "Data science"
   url = "data-science/"
 
-  [[params.navlinks]]
-  name = "Get in Touch"
-  url = "contact/"
-
   [params.social]
   twitter       = "https://twitter.com/NhatHaDinh"
   linkedin      = "https://www.linkedin.com/in/hanhatdinh/"
